@@ -11,7 +11,7 @@ I'm a **Full-Stack Customer Experience (CX) Architect**, **Transcendence Coach**
 
 ### 💡 Brands & Platforms I've Worked With
 
-Citibank | PropertyGuru | UOB | GovTech Singapore | Startups & solopreneurs
+Citibank | PropertyGuru | GovTech Singapore | Startups & solopreneurs
 
 ### 🌍 Current Focus
 
