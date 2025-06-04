@@ -1,4 +1,4 @@
-Hi, I'm Nantha 👋🏽 
+# 👋🏽  Hi, I'm Nantha, 
 
 I'm a **Full-Stack Customer Experience (CX) Architect**, **Transcendence Coach**, and **Creative Technologist** with 17+ years across digital marketing, MarTech, and strategic growth.
 
