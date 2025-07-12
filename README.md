@@ -17,7 +17,7 @@ Citibank | PropertyGuru | GovTech Singapore | Startups & solopreneurs
 
 - Building AI-powered digital products in healing, fitness, dance, and business
 - Creating content around customer journey optimization
-- Teaching sensual dance (Kumchata) and emotional embodiment
+- Teaching bachata dance (Kumchata) and emotional embodiment
 
 ### 📫 Let's Connect
 
