@@ -6,7 +6,7 @@ I'm a **Full-Stack Customer Experience (CX) Architect**, **Transcendence Coach**
 
 - 🧠 **CX & MarTech Strategy**: Designing end-to-end digital customer journeys for banks, fintechs, and property tech brands.
 - 🔧 **Automation & Analytics**: Building MarTech stacks that drive personalization, retention, and ROI.
-- 💻 **Web Development**: Coding full-stack websites using HTML, CSS, JS, jQuery, and React (in progress).
+- 💻 **Web Development**: Coding full-stack websites using HTML, CSS, JS, jQuery, and React.
 - 🌀 **Coaching & Healing**: Offering regression therapy and transcendence programs via [asknantha.com](https://asknantha.com).
 
 ### 💡 Brands & Platforms I've Worked With
@@ -15,9 +15,8 @@ Citibank | PropertyGuru | GovTech Singapore | Startups & solopreneurs
 
 ### 🌍 Current Focus
 
-- Building AI-powered digital products in healing, fitness, dance, and business
+- Building AI-powered digital products in healing, fitness and business
 - Creating content around customer journey optimization
-- Teaching bachata dance (Kumchata) and emotional embodiment
 
 ### 📫 Let's Connect
 
