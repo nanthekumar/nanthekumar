@@ -12,15 +12,15 @@ I enjoy building practical AI tools, automated customer journeys and behaviour-d
 - AI agentic workflows for CX, marketing and operations  
 - Full-stack applications using React, Node, Supabase and OpenAI  
 - Customer journey systems across onboarding, retention and loyalty  
-- MarTech architectures (CDP, CRM, automation)  
-- Habit-tracking and behaviour-design tools for transformation  
+- MarTech architectures (CDP, CRM, automation engines)  
+- Behaviour-driven tools for habit transformation  
 
 ---
 
 ## 🧠 Featured Project  
 ### **TranscendBody — AI Fitness & Transformation App**  
-A full-stack AI application blending fitness, behaviour psychology and AI coaching.  
-Built with **React, Node, Supabase, Tailwind and OpenAI**.
+A full-stack AI application blending fitness, behavioural psychology and AI coaching.  
+Built with **React, Node, Tailwind, Supabase and OpenAI**.
 
 👉 [View Repository](https://github.com/nanthekumar/TranscendBody)
 
@@ -40,7 +40,7 @@ Built with **React, Node, Supabase, Tailwind and OpenAI**.
 - MSc IT in Business (Analytics) — SMU  
 - BSc Computing — NUS  
 - Diploma in Engineering Informatics — NYP  
-- Full-Stack Web Development with AI — MAGES Institute  
+- Full-Stack Web Development with AI — MAGES  
 - AI Generalist Accelerator — Outskill  
 - Certified Regression Therapist — TASSO  
 - Hypnotherapy Training — EKAA  
@@ -49,4 +49,5 @@ Built with **React, Node, Supabase, Tailwind and OpenAI**.
 
 ## 🌐 Connect  
 **LinkedIn:** https://linkedin.com/in/nanthekumar  
+**Website:** https://asknantha.com  
 **Email:** nanthekumar.2011@mitb.smu.edu.sg
