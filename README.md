@@ -1,24 +1,12 @@
-# 👋🏽  Hi, I'm Nantha!
+Hi, I’m a CX and MarTech leader with 17 years’ experience delivering digital transformation, intelligent customer journeys and automation across financial services, real estate, government and digital-first brands.
 
-I'm a **Full-Stack Customer Experience (CX) Architect**, **Transcendence Coach**, and **Creative Technologist** with 17+ years across digital marketing, MarTech, and strategic growth.
+I specialise in AI agentic systems, CDP architectures and end-to-end lifecycle design that improve acquisition, engagement and LTV. My work integrates product, data, marketing and technology to modernise MarTech ecosystems and scale multi-market CX operations across APAC.
 
-### 🚀 What I Do
+My background spans enterprise organisations (Citibank, NTUC, PropertyGuru), agency environments (Wunderman), startups, and hands-on AI engineering through my consultancy, Full Stack CXO. This includes building real AI applications and automation engines to help teams accelerate operation, personalisation and growth.
 
-- 🧠 **CX & MarTech Strategy**: Designing end-to-end digital customer journeys for banks, fintechs, and property tech brands.
-- 🔧 **Automation & Analytics**: Building MarTech stacks that drive personalization, retention, and ROI.
-- 💻 **Web Development**: Coding full-stack websites using HTML, CSS, JS, jQuery, and React.
-- 🌀 **Coaching & Healing**: Offering regression therapy and transcendence programs via [asknantha.com](https://asknantha.com).
+Over the years, I’ve also invested deeply in professional development — including certified Regression Therapy (TASSO), clinical Hypnotherapy training (EKAA) and advanced mind–body disciplines — strengthening my ability to lead with clarity, presence and emotional intelligence.
 
-### 💡 Brands & Platforms I've Worked With
+Today, I help businesses design AI-powered customer journey engines, modernise their MarTech foundations and build high-performing digital and CX teams.
 
-Citibank | PropertyGuru | GovTech Singapore | Startups & solopreneurs
-
-### 🌍 Current Focus
-
-- Building AI-powered digital products in healing, fitness and business
-- Creating content around customer journey optimization
-
-### 📫 Let's Connect
-
-- LinkedIn: [linkedin.com/in/nanthekumar](https://linkedin.com/in/nanthekumar)
-- Portfolio: [asknantha.com](https://asknantha.com)
+Specialties:
+AI agentic systems • Customer Experience • MarTech architecture • Lifecycle strategy • CDP + CRM systems • Automation • Digital product • Data + engineering collaboration • CX governance • Transformation leadership
