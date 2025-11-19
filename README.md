@@ -1,12 +1,52 @@
-Hi, I’m a CX and MarTech leader with 17 years’ experience delivering digital transformation, intelligent customer journeys and automation across financial services, real estate, government and digital-first brands.
+## 👋 Hi, I’m Nantha  
+**AI CXO & MarTech Strategist | Builder of AI agentic systems, CX automation engines and full-stack digital products**
 
-I specialise in AI agentic systems, CDP architectures and end-to-end lifecycle design that improve acquisition, engagement and LTV. My work integrates product, data, marketing and technology to modernise MarTech ecosystems and scale multi-market CX operations across APAC.
+I bridge customer experience, engineering and AI automation to design and build systems that solve real business problems.  
+With 17 years in CX, MarTech, digital strategy and product leadership across banking, real estate and government, I combine strategic clarity with hands-on full-stack development to ship solutions that create real impact.
 
-My background spans enterprise organisations (Citibank, NTUC, PropertyGuru), agency environments (Wunderman), startups, and hands-on AI engineering through my consultancy, FullStack CXO. This includes building real AI applications and automation engines to help teams accelerate operation, personalisation and growth.
+I enjoy building practical AI tools, automated customer journeys and behaviour-driven applications that help people transform.
 
-Over the years, I’ve also invested deeply in professional development — including certified Regression Therapy (TASSO), clinical Hypnotherapy training (EKAA) and advanced mind–body disciplines — strengthening my ability to lead with clarity, presence and emotional intelligence.
+---
 
-Today, I help businesses design AI-powered customer journey engines, modernise their MarTech foundations and build high-performing digital and CX teams.
+## 🚀 What I Build  
+- AI agentic workflows for CX, marketing and operations  
+- Full-stack applications using React, Node, Supabase and OpenAI  
+- Customer journey systems across onboarding, retention and loyalty  
+- MarTech architectures (CDP, CRM, automation)  
+- Habit-tracking and behaviour-design tools for transformation  
 
-Specialties:
-AI agentic systems • Customer Experience • MarTech architecture • Lifecycle strategy • CDP + CRM systems • Automation • Digital product • Data + engineering collaboration • CX governance • Transformation leadership
+---
+
+## 🧠 Featured Project  
+### **TranscendBody — AI Fitness & Transformation App**  
+A full-stack AI application blending fitness, behaviour psychology and AI coaching.  
+Built with **React, Node, Supabase, Tailwind and OpenAI**.
+
+👉 [View Repository](https://github.com/nanthekumar/TranscendBody)
+
+---
+
+## 🔧 Tech Stack  
+**Frontend:** React, TailwindCSS  
+**Backend:** Node.js, Express  
+**Database:** Supabase (PostgreSQL), Drizzle ORM  
+**AI:** OpenAI API, agent logic, prompt systems  
+**Automation:** n8n, Zapier  
+**Core Skills:** CX design, MarTech integration, lifecycle automation, product architecture  
+
+---
+
+## 🎓 Certifications  
+- MSc IT in Business (Analytics) — SMU  
+- BSc Computing — NUS  
+- Diploma in Engineering Informatics — NYP  
+- Full-Stack Web Development with AI — MAGES Institute  
+- AI Generalist Accelerator — Outskill  
+- Certified Regression Therapist — TASSO  
+- Hypnotherapy Training — EKAA  
+
+---
+
+## 🌐 Connect  
+**LinkedIn:** https://linkedin.com/in/nanthekumar  
+**Email:** nanthekumar.2011@mitb.smu.edu.sg
