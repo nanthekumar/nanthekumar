@@ -49,5 +49,4 @@ Built with **React, Node, Tailwind, Supabase and OpenAI**.
 
 ## 🌐 Connect  
 **LinkedIn:** https://linkedin.com/in/nanthekumar  
-**Website:** https://asknantha.com  
 **Email:** nanthekumar.2011@mitb.smu.edu.sg
