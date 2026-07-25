@@ -16,4 +16,4 @@ With 20+ years of experience leading digital, data, customer experience, product
 - Voice AI
 - Document Intelligence
 - Customer Experience Automation
-- AI Product Prototyping
+- AI Product Development
