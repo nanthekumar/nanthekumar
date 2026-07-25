@@ -20,15 +20,73 @@ With 20+ years of experience leading digital, data, customer experience, product
 
 ---
 
-## Featured Enterprise AI Projects
+## Featured Repositories
 
-Explore practical Enterprise AI products, agents and workflows designed to solve real business problems and accelerate AI adoption.
+### 🚀 TranscendBody
+AI-powered fitness and transformation platform that combines behavioural science, intelligent coaching and modern web technologies to create sustainable lifestyle change.
 
-| Project | Description |
-|---------|-------------|
-| 🚀 TranscendBody AI | AI-powered wellness platform combining behavioural science and intelligent coaching. |
-| 🤖 Enterprise AI Agent | AI agent for enterprise task automation and decision support. |
-| 🎙️ Voice AI Assistant | Real-time conversational AI for customer engagement and support. |
-| 📄 Document Intelligence | AI-powered document extraction, analysis and knowledge retrieval. |
-| 💬 Knowledge Assistant | Enterprise knowledge assistant powered by Retrieval-Augmented Generation (RAG). |
-| ⚙️ AI Workflow Automation | Intelligent workflows that streamline business processes and improve productivity. |
+### 🎙️ MAGES Voice Agent
+Voice AI application demonstrating conversational AI, speech processing and intelligent user interactions.
+
+> More Enterprise AI projects are currently being developed and will be published here.
+
+---
+
+## Technology Stack
+
+### AI
+- Claude
+- ChatGPT
+- Gemini
+- OpenAI API
+- Prompt Engineering
+
+### AI Orchestration & Automation
+- n8n
+- Model Context Protocol (MCP)
+- REST APIs
+
+### Development
+- React
+- TypeScript
+- JavaScript
+- Node.js
+- HTML
+- CSS
+
+### Database
+- PostgreSQL
+- Supabase
+
+### Enterprise Platforms
+- Salesforce Marketing Cloud
+- Adobe Experience Cloud
+- Microsoft Dynamics 365
+- Google Marketing Platform
+- PEGA RTIM
+
+### Analytics
+- BigQuery
+- Tableau
+- Looker
+- Power BI
+
+---
+
+## Certifications
+
+- MSc, IT in Business (Analytics) — Singapore Management University
+- BSc (Hons), Computing (E-Commerce) — National University of Singapore
+- Professional Full Stack Web Development with AI (Distinction) — MAGES Institute
+- AI Agent Workflows with Claude — MAGES Institute
+- AI Generalist Accelerator — OutSkill
+
+---
+
+## Let's Connect
+
+🌐 LinkedIn  
+https://www.linkedin.com/in/nanthekumar
+
+📧 Email  
+nanthekumar.2011@mitb.smu.edu.sg
