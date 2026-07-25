@@ -1,52 +1,7 @@
-## 👋 Hi, I’m Nantha  
-**AI CXO & MarTech Strategist | Builder of AI agentic systems, CX automation engines and full-stack digital products**
+# Enterprise AI Product Lead
 
-I bridge customer experience, engineering and AI automation to design and build systems that solve real business problems.  
-With 17 years in CX, MarTech, digital strategy and product leadership across banking, real estate and government, I combine strategic clarity with hands-on full-stack development to ship solutions that create real impact.
+### Turning AI into Business Value.
 
-I enjoy building practical AI tools, automated customer journeys and behaviour-driven applications that help people transform.
+I design and build practical Enterprise AI products, AI agents and intelligent workflows that solve real business problems and accelerate AI adoption.
 
----
-
-## 🚀 What I Build  
-- AI agentic workflows for CX, marketing and operations  
-- Full-stack applications using React, Node, Supabase and OpenAI  
-- Customer journey systems across onboarding, retention and loyalty  
-- MarTech architectures (CDP, CRM, automation engines)  
-- Behaviour-driven tools for habit transformation  
-
----
-
-## 🧠 Featured Project  
-### **TranscendBody — AI Fitness & Transformation App**  
-A full-stack AI application blending fitness, behavioural psychology and AI coaching.  
-Built with **React, Node, Tailwind, Supabase and OpenAI**.
-
-👉 [View Repository](https://github.com/nanthekumar/TranscendBody)
-
----
-
-## 🔧 Tech Stack  
-**Frontend:** React, TailwindCSS  
-**Backend:** Node.js, Express  
-**Database:** Supabase (PostgreSQL), Drizzle ORM  
-**AI:** OpenAI API, agent logic, prompt systems  
-**Automation:** n8n, Zapier  
-**Core Skills:** CX design, MarTech integration, lifecycle automation, product architecture  
-
----
-
-## 🎓 Certifications  
-- MSc IT in Business (Analytics) — SMU  
-- BSc Computing — NUS  
-- Diploma in Engineering Informatics — NYP  
-- Full-Stack Web Development with AI — MAGES  
-- AI Generalist Accelerator — Outskill  
-- Certified Regression Therapist — TASSO  
-- Hypnotherapy Training — EKAA  
-
----
-
-## 🌐 Connect  
-**LinkedIn:** https://linkedin.com/in/nanthekumar  
-**Email:** nanthekumar.2011@mitb.smu.edu.sg
+With 20+ years of experience leading digital, data, customer experience, product and AI transformation across global enterprises, I bridge business strategy with hands-on AI implementation to deliver measurable business outcomes.
