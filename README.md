@@ -86,7 +86,7 @@ Voice AI application demonstrating conversational AI, speech processing and inte
 ## Let's Connect
 
 🌐 LinkedIn  
-https://www.linkedin.com/in/nanthekumar
+[https://www.linkedin.com/in/nanthekumar](https://www.linkedin.com/in/nanthekumar-tamilselvan/)
 
 📧 Email  
 nanthekumar.2011@mitb.smu.edu.sg
