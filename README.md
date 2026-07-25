@@ -28,7 +28,7 @@ AI-powered fitness and transformation platform that combines behavioural science
 ### 🎙️ MAGES Voice Agent
 Voice AI application demonstrating conversational AI, speech processing and intelligent user interactions.
 
-> More Enterprise AI projects are currently being developed and will be published here.
+> More Enterprise AI products and showcase projects will be published as they are production-ready.
 
 ---
 
