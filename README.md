@@ -23,12 +23,9 @@ With 20+ years of experience leading digital, data, customer experience, product
 ## Featured Repositories
 
 ### 🚀 TranscendBody
-AI-powered fitness and transformation platform that combines behavioural science, intelligent coaching and modern web technologies to create sustainable lifestyle change.
+AI-powered behaviour intelligence platform demonstrating Enterprise AI product thinking, intelligent workflows and customer-centric experience design.
 
-### 🎙️ MAGES Voice Agent
-Voice AI application demonstrating conversational AI, speech processing and intelligent user interactions.
-
-> More Enterprise AI products and showcase projects will be published as they are production-ready.
+More Enterprise AI products will be published as they become production-ready.
 
 ---
 
