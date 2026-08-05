@@ -2,28 +2,29 @@
 
 ### Turning AI into Business Value.
 
-I design and build practical Enterprise AI products, agents and workflows that solve real business problems and accelerate AI adoption.
+Designing Enterprise AI products that transform customer experiences and create measurable business value.
 
-With 20+ years of experience leading digital, data, customer experience, product and AI transformation across global enterprises, I bridge business strategy with hands-on AI implementation to deliver measurable business outcomes.
+With 20+ years of experience leading digital, data, customer lifecycle, product and AI transformation across global enterprises, I bridge customer experience strategy with hands-on AI product development to design practical AI products, intelligent agents and workflow automation that solve real business problems.
 
 ---
 
-## Enterprise AI Capabilities
+## Enterprise AI for Customer Experience
 
+- Customer Experience
 - Enterprise AI Products
 - AI Agents
-- AI Workflows
+- Workflow Automation
 - Voice AI
 - Document Intelligence
-- Customer Experience Automation
-- AI Product Development
+- Enterprise Integrations
 
 ---
 
 ## Featured Repositories
 
 ### 🚀 TranscendBody
-AI-powered behaviour intelligence platform demonstrating Enterprise AI product thinking, intelligent workflows and customer-centric experience design.
+
+AI-powered behavioural intelligence platform demonstrating Enterprise AI product thinking, intelligent agents, workflow automation and customer experience transformation.
 
 More Enterprise AI products will be published as they become production-ready.
 
@@ -70,20 +71,24 @@ More Enterprise AI products will be published as they become production-ready.
 
 ---
 
-## Certifications
+## Education & Certifications
 
+### Education
 - MSc, IT in Business (Analytics) — Singapore Management University
 - BSc (Hons), Computing (E-Commerce) — National University of Singapore
+
+### AI Certifications
 - Professional Full Stack Web Development with AI (Distinction) — MAGES Institute
 - AI Agent Workflows with Claude — MAGES Institute
 - AI Generalist Accelerator — OutSkill
+- Claude Certified — Anthropic
 
 ---
 
 ## Let's Connect
 
 🌐 LinkedIn  
-[https://www.linkedin.com/in/nanthekumar](https://www.linkedin.com/in/nanthekumar-tamilselvan/)
+https://www.linkedin.com/in/nanthekumar-tamilselvan/
 
 📧 Email  
 nanthekumar.2011@mitb.smu.edu.sg
