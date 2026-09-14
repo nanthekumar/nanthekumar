@@ -1,22 +1,30 @@
-# Enterprise AI Product Lead
+# Enterprise CX Transformation
 
-### Turning AI into Business Value.
+### AI-Native Customer Journeys
 
-Designing Enterprise AI products that transform customer experiences and create measurable business value.
+Designing AI products, agents and intelligent workflows that transform customer journeys and create measurable business value.
 
-With 20+ years of experience leading digital, data, customer lifecycle, product and AI transformation across global enterprises, I bridge customer experience strategy with hands-on AI product development to design practical AI products, intelligent agents and workflow automation that solve real business problems.
+I bring together customer experience, product, data and technology to translate business and customer problems into practical AI solutions. My work focuses on identifying high-value use cases and bringing them to life through AI products, intelligent agents, workflow automation and enterprise integrations.
 
 ---
 
-## Enterprise AI for Customer Experience
+## Building AI-Native Customer Journeys
 
 - Customer Experience
-- Enterprise AI Products
+- AI Products
 - AI Agents
-- Workflow Automation
-- Voice AI
-- Document Intelligence
+- Intelligent Workflows
 - Enterprise Integrations
+
+---
+
+## What's Your Use Case?™
+
+My enterprise AI methodology for translating business and customer problems into practical, prioritised AI solutions.
+
+**Business Problem → AI Opportunity → Prioritised Use Case → Product / Agent / Workflow → Adoption → Measurable Value**
+
+This portfolio brings the methodology to life through practical AI-native customer journey use cases, products, agents and intelligent workflows.
 
 ---
 
@@ -24,9 +32,9 @@ With 20+ years of experience leading digital, data, customer lifecycle, product 
 
 ### 🚀 TranscendBody
 
-AI-powered behavioural intelligence platform demonstrating Enterprise AI product thinking, intelligent agents, workflow automation and customer experience transformation.
+AI-powered behavioural intelligence platform demonstrating AI product thinking, intelligent agents, workflow automation and customer experience transformation.
 
-More Enterprise AI products will be published as they become production-ready.
+More AI-native customer experience products and use cases will be published as they become production-ready.
 
 ---
 
@@ -74,14 +82,12 @@ More Enterprise AI products will be published as they become production-ready.
 ## Education & Certifications
 
 ### Education
-- MSc, IT in Business (Analytics) — Singapore Management University
+- MSc, IT in Business (Data Analytics) — Singapore Management University
 - BSc (Hons), Computing (E-Commerce) — National University of Singapore
 
 ### AI Certifications
 - Professional Full Stack Web Development with AI (Distinction) — MAGES Institute
-- AI Agent Workflows with Claude — MAGES Institute
-- AI Generalist Accelerator — OutSkill
-- Claude Certified — Anthropic
+- Certified in AI Agent Workflows with Claude — MAGES Institute
 
 ---
 
